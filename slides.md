@@ -9,10 +9,10 @@ theme: seriph
 title: C++
 colorSchema: light
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  Presentacion acerca del lenguaje de programación C++.
+  Por make Classic Games (https://twitch.tv/makeclassicgames)
+  Hecho con https://sli.dev
+  
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
